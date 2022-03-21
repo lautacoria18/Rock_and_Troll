@@ -1,5 +1,7 @@
 # Rock-and-Troll
 
+Link de descarga: https://mega.nz/file/4Y430QZB#YHlFSDj_nG7LsZC7580J-drWHo7zqOx8Ndwr0cLj7CY
+
 *Héroe*
 
 -Se mueve horizontalmente con las flechas Izquierda-Derecha o con las teclas A-D.
