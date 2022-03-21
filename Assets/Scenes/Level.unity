@@ -4734,8 +4734,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bff539427c49edb43b47080c9f89dead, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  verticalBounceFactor: 0
-  horizontalBounceFactor: 2
+  verticalBounceFactor: 1
+  horizontalBounceFactor: 1
 --- !u!61 &1844164248
 BoxCollider2D:
   m_ObjectHideFlags: 0
