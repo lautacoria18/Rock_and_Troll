@@ -1,6 +1,6 @@
 # Rock-and-Troll
 
-Link de descarga: https://mega.nz/file/4Y430QZB#YHlFSDj_nG7LsZC7580J-drWHo7zqOx8Ndwr0cLj7CY
+Link de descarga: https://drive.google.com/file/d/1G72v6FpbzVbFW1nkuWyfDYfxyCgwFL--/view?usp=sharing
 
 *Héroe*
 
