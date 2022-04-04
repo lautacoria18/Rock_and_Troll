@@ -139,8 +139,6 @@ Link de descarga: https://drive.google.com/file/d/1G72v6FpbzVbFW1nkuWyfDYfxyCgwF
 
 ![image](https://user-images.githubusercontent.com/42523128/161629738-61863f9e-0cf0-4195-a0bf-2b792511484a.png)
 
-![image](https://user-images.githubusercontent.com/42523128/161629796-418854ec-312c-4274-8fac-43c14ec672d6.png)
-
 ![image](https://user-images.githubusercontent.com/42523128/161630095-8a857344-41d0-4b05-a204-e68eeca7dd6b.png)
 
 ![image](https://user-images.githubusercontent.com/42523128/161630140-624ace72-2a55-4820-b632-565183ab15ce.png)
