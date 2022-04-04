@@ -134,3 +134,18 @@ Link de descarga: https://drive.google.com/file/d/1G72v6FpbzVbFW1nkuWyfDYfxyCgwF
 *Sonidos*
 
 -Todos los sonidos son del *Sonic the Hedgehog 2* [Megadrive].
+
+![image](https://user-images.githubusercontent.com/42523128/161629667-c85894ed-6ab6-4ae4-9dbc-8d39650944ee.png)
+
+![image](https://user-images.githubusercontent.com/42523128/161629738-61863f9e-0cf0-4195-a0bf-2b792511484a.png)
+
+![image](https://user-images.githubusercontent.com/42523128/161629796-418854ec-312c-4274-8fac-43c14ec672d6.png)
+
+![image](https://user-images.githubusercontent.com/42523128/161629831-bfe9899f-f5d9-46ca-9e55-363fe076c5e0.png)
+
+![image](https://user-images.githubusercontent.com/42523128/161629863-1d074491-3f02-499f-9e8c-477223ee51a1.png)
+
+![image](https://user-images.githubusercontent.com/42523128/161629961-c573bbdd-353c-418c-8cbb-faf7ad53808e.png)
+
+
+
